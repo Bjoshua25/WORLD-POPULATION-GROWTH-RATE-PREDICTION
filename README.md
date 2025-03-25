@@ -1,6 +1,8 @@
 # **WORLD POPULATION GROWTH RATE PREDICTION | DECISION TREE**  
 *Global Population Analysis & Forecasting*  
 
+![](Population_cover.jpeg)
+
 ## **INTRODUCTION**  
 The world’s population has been growing at an unprecedented rate, impacting **economies, resources, and global policies**. This project applies a **Decision Tree Regression model** to analyze historical population data (1960-2017) and predict future population growth rates.  
 
